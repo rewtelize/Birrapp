@@ -1,6 +1,6 @@
 # Birrapp
 Subject: "Sistemas Distribuidos" - "Distributed Systems"
-Authors: Javier Barroso Canto,	Jorge Gutiérrez Vila,	Yefry Manuel Pallarés Núñez
+Authors: Javier Barroso Canto,	Jorge Gutiérrez Vila, [Yefry Manuel Pallarés Núñez](https://github.com/Jeffresh)
 
 Description:
 Our program makes a zeromq conversation with the client, he makes a request to the server and the server ask the worker. The worker, with threads, will produce an array with data from social network Twitter and it will generate some graphics that will be stored in Google Drive and an excel file that will be available only for Google Drive's admin. 
